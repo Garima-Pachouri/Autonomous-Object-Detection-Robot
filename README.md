@@ -1,6 +1,6 @@
 # Autonomous Object Detection & Path Following Robot
 
-Overview
+## Overview
 This project simulates the basic working of a robot that can follow a path and avoid obstacles using simple decision-making logic.
 
 Tech Stack
